@@ -6,26 +6,26 @@ Padova
     :target: http://dx.doi.org/10.5281/zenodo.16869
     :alt: Digital Object Identifier (DOI)
 
-.. image:: https://pypip.in/license/padova/badge.svg
+.. image:: https://img.shields.io/pypi/l/padova.svg
     :target: https://pypi.python.org/pypi/padova/
     :alt: License
 
 .. image:: https://travis-ci.org/jonathansick/padova.svg?branch=master
     :target: https://travis-ci.org/jonathansick/padova
 
-.. image:: https://pypip.in/version/padova/badge.svg?text=version
+.. image:: https://img.shields.io/pypi/v/padova.svg?label=version
     :target: https://pypi.python.org/pypi/padova/
     :alt: Latest Version
 
-.. image:: https://pypip.in/status/padova/badge.svg
+.. image:: https://img.shields.io/pypi/status/padova.svg
     :target: https://pypi.python.org/pypi/padova/
     :alt: Development Status
 
-.. image:: https://pypip.in/py_versions/padova/badge.svg
+.. image:: https://img.shields.io/pypi/pyversions/padova.svg
     :target: https://pypi.python.org/pypi/padova/
     :alt: Supported Python versions
 
-.. image:: https://pypip.in/format/padova/badge.svg
+.. image:: https://img.shields.io/pypi/format/padova.svg
     :target: https://pypi.python.org/pypi/padova/
     :alt: Download format
 
